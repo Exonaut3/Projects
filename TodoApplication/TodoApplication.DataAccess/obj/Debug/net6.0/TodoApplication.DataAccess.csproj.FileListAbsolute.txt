@@ -1,0 +1,17 @@
+D:\Desktop\SIVUS\PORTFOLIO_PROEKTI\TodoApplication\TodoApplication.DataAccess\bin\Debug\net6.0\TodoApplication.DataAccess.deps.json
+D:\Desktop\SIVUS\PORTFOLIO_PROEKTI\TodoApplication\TodoApplication.DataAccess\bin\Debug\net6.0\TodoApplication.DataAccess.runtimeconfig.json
+D:\Desktop\SIVUS\PORTFOLIO_PROEKTI\TodoApplication\TodoApplication.DataAccess\bin\Debug\net6.0\TodoApplication.DataAccess.dll
+D:\Desktop\SIVUS\PORTFOLIO_PROEKTI\TodoApplication\TodoApplication.DataAccess\bin\Debug\net6.0\TodoApplication.DataAccess.pdb
+D:\Desktop\SIVUS\PORTFOLIO_PROEKTI\TodoApplication\TodoApplication.DataAccess\bin\Debug\net6.0\TodoApplication.Domain.dll
+D:\Desktop\SIVUS\PORTFOLIO_PROEKTI\TodoApplication\TodoApplication.DataAccess\bin\Debug\net6.0\TodoApplication.Domain.pdb
+D:\Desktop\SIVUS\PORTFOLIO_PROEKTI\TodoApplication\TodoApplication.DataAccess\obj\Debug\net6.0\TodoApplication.DataAccess.csproj.AssemblyReference.cache
+D:\Desktop\SIVUS\PORTFOLIO_PROEKTI\TodoApplication\TodoApplication.DataAccess\obj\Debug\net6.0\TodoApplication.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\SIVUS\PORTFOLIO_PROEKTI\TodoApplication\TodoApplication.DataAccess\obj\Debug\net6.0\TodoApplication.DataAccess.AssemblyInfoInputs.cache
+D:\Desktop\SIVUS\PORTFOLIO_PROEKTI\TodoApplication\TodoApplication.DataAccess\obj\Debug\net6.0\TodoApplication.DataAccess.AssemblyInfo.cs
+D:\Desktop\SIVUS\PORTFOLIO_PROEKTI\TodoApplication\TodoApplication.DataAccess\obj\Debug\net6.0\TodoApplication.DataAccess.csproj.CoreCompileInputs.cache
+D:\Desktop\SIVUS\PORTFOLIO_PROEKTI\TodoApplication\TodoApplication.DataAccess\obj\Debug\net6.0\TodoAppl.EEE91F3E.Up2Date
+D:\Desktop\SIVUS\PORTFOLIO_PROEKTI\TodoApplication\TodoApplication.DataAccess\obj\Debug\net6.0\TodoApplication.DataAccess.dll
+D:\Desktop\SIVUS\PORTFOLIO_PROEKTI\TodoApplication\TodoApplication.DataAccess\obj\Debug\net6.0\refint\TodoApplication.DataAccess.dll
+D:\Desktop\SIVUS\PORTFOLIO_PROEKTI\TodoApplication\TodoApplication.DataAccess\obj\Debug\net6.0\TodoApplication.DataAccess.pdb
+D:\Desktop\SIVUS\PORTFOLIO_PROEKTI\TodoApplication\TodoApplication.DataAccess\obj\Debug\net6.0\TodoApplication.DataAccess.genruntimeconfig.cache
+D:\Desktop\SIVUS\PORTFOLIO_PROEKTI\TodoApplication\TodoApplication.DataAccess\obj\Debug\net6.0\ref\TodoApplication.DataAccess.dll

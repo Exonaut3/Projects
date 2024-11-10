@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NotesApp.Dto/1.0.0": {
+        "dependencies": {
+          "NotesApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "NotesApp.Dto.dll": {}
+        }
+      },
+      "NotesApp.Domain/1.0.0": {
+        "runtime": {
+          "NotesApp.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NotesApp.Dto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NotesApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

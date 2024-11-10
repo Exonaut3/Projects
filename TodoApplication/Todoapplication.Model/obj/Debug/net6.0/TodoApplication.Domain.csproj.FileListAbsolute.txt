@@ -1,0 +1,11 @@
+D:\Desktop\SIVUS\PORTFOLIO_PROEKTI\TodoApplication\Todoapplication.Model\bin\Debug\net6.0\TodoApplication.Domain.deps.json
+D:\Desktop\SIVUS\PORTFOLIO_PROEKTI\TodoApplication\Todoapplication.Model\bin\Debug\net6.0\TodoApplication.Domain.dll
+D:\Desktop\SIVUS\PORTFOLIO_PROEKTI\TodoApplication\Todoapplication.Model\bin\Debug\net6.0\TodoApplication.Domain.pdb
+D:\Desktop\SIVUS\PORTFOLIO_PROEKTI\TodoApplication\Todoapplication.Model\obj\Debug\net6.0\TodoApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\SIVUS\PORTFOLIO_PROEKTI\TodoApplication\Todoapplication.Model\obj\Debug\net6.0\TodoApplication.Domain.AssemblyInfoInputs.cache
+D:\Desktop\SIVUS\PORTFOLIO_PROEKTI\TodoApplication\Todoapplication.Model\obj\Debug\net6.0\TodoApplication.Domain.AssemblyInfo.cs
+D:\Desktop\SIVUS\PORTFOLIO_PROEKTI\TodoApplication\Todoapplication.Model\obj\Debug\net6.0\TodoApplication.Domain.csproj.CoreCompileInputs.cache
+D:\Desktop\SIVUS\PORTFOLIO_PROEKTI\TodoApplication\Todoapplication.Model\obj\Debug\net6.0\TodoApplication.Domain.dll
+D:\Desktop\SIVUS\PORTFOLIO_PROEKTI\TodoApplication\Todoapplication.Model\obj\Debug\net6.0\refint\TodoApplication.Domain.dll
+D:\Desktop\SIVUS\PORTFOLIO_PROEKTI\TodoApplication\Todoapplication.Model\obj\Debug\net6.0\TodoApplication.Domain.pdb
+D:\Desktop\SIVUS\PORTFOLIO_PROEKTI\TodoApplication\Todoapplication.Model\obj\Debug\net6.0\ref\TodoApplication.Domain.dll

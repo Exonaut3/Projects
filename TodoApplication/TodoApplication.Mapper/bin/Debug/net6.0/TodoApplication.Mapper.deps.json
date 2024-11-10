@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TodoApplication.Mapper/1.0.0": {
+        "dependencies": {
+          "TodoApplication.Domain": "1.0.0",
+          "TodoApplication.Dtos": "1.0.0"
+        },
+        "runtime": {
+          "TodoApplication.Mapper.dll": {}
+        }
+      },
+      "TodoApplication.Domain/1.0.0": {
+        "runtime": {
+          "TodoApplication.Domain.dll": {}
+        }
+      },
+      "TodoApplication.Dtos/1.0.0": {
+        "runtime": {
+          "TodoApplication.Dtos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TodoApplication.Mapper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TodoApplication.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TodoApplication.Dtos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

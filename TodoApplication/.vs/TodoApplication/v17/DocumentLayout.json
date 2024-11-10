@@ -1,0 +1,405 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\TodoApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C521AA8-DB29-44AB-A0DA-98BF89AE4930}|TodoApplication.WebApp\\TodoApplication.WebApp.csproj|d:\\desktop\\sivus\\portfolio_proekti\\todoapplication\\todoapplication.webapp\\views\\todo\\addtodo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C521AA8-DB29-44AB-A0DA-98BF89AE4930}|TodoApplication.WebApp\\TodoApplication.WebApp.csproj|solutionrelative:todoapplication.webapp\\views\\todo\\addtodo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C521AA8-DB29-44AB-A0DA-98BF89AE4930}|TodoApplication.WebApp\\TodoApplication.WebApp.csproj|d:\\desktop\\sivus\\portfolio_proekti\\todoapplication\\todoapplication.webapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C521AA8-DB29-44AB-A0DA-98BF89AE4930}|TodoApplication.WebApp\\TodoApplication.WebApp.csproj|solutionrelative:todoapplication.webapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD81115C-CB93-4C33-BDFE-D1BF9DC34693}|Todoapplication.Model\\TodoApplication.Domain.csproj|d:\\desktop\\sivus\\portfolio_proekti\\todoapplication\\todoapplication.model\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD81115C-CB93-4C33-BDFE-D1BF9DC34693}|Todoapplication.Model\\TodoApplication.Domain.csproj|solutionrelative:todoapplication.model\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C521AA8-DB29-44AB-A0DA-98BF89AE4930}|TodoApplication.WebApp\\TodoApplication.WebApp.csproj|d:\\desktop\\sivus\\portfolio_proekti\\todoapplication\\todoapplication.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C521AA8-DB29-44AB-A0DA-98BF89AE4930}|TodoApplication.WebApp\\TodoApplication.WebApp.csproj|solutionrelative:todoapplication.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{482B5D8D-7F58-44EA-BF6C-29779B200033}|TodoApplication.DataAccess\\TodoApplication.DataAccess.csproj|d:\\desktop\\sivus\\portfolio_proekti\\todoapplication\\todoapplication.dataaccess\\efimplementations\\efstatusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{482B5D8D-7F58-44EA-BF6C-29779B200033}|TodoApplication.DataAccess\\TodoApplication.DataAccess.csproj|solutionrelative:todoapplication.dataaccess\\efimplementations\\efstatusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{482B5D8D-7F58-44EA-BF6C-29779B200033}|TodoApplication.DataAccess\\TodoApplication.DataAccess.csproj|d:\\desktop\\sivus\\portfolio_proekti\\todoapplication\\todoapplication.dataaccess\\implementations\\statusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{482B5D8D-7F58-44EA-BF6C-29779B200033}|TodoApplication.DataAccess\\TodoApplication.DataAccess.csproj|solutionrelative:todoapplication.dataaccess\\implementations\\statusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{482B5D8D-7F58-44EA-BF6C-29779B200033}|TodoApplication.DataAccess\\TodoApplication.DataAccess.csproj|d:\\desktop\\sivus\\portfolio_proekti\\todoapplication\\todoapplication.dataaccess\\implementations\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{482B5D8D-7F58-44EA-BF6C-29779B200033}|TodoApplication.DataAccess\\TodoApplication.DataAccess.csproj|solutionrelative:todoapplication.dataaccess\\implementations\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{482B5D8D-7F58-44EA-BF6C-29779B200033}|TodoApplication.DataAccess\\TodoApplication.DataAccess.csproj|d:\\desktop\\sivus\\portfolio_proekti\\todoapplication\\todoapplication.dataaccess\\efimplementations\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{482B5D8D-7F58-44EA-BF6C-29779B200033}|TodoApplication.DataAccess\\TodoApplication.DataAccess.csproj|solutionrelative:todoapplication.dataaccess\\efimplementations\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{482B5D8D-7F58-44EA-BF6C-29779B200033}|TodoApplication.DataAccess\\TodoApplication.DataAccess.csproj|d:\\desktop\\sivus\\portfolio_proekti\\todoapplication\\todoapplication.dataaccess\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{482B5D8D-7F58-44EA-BF6C-29779B200033}|TodoApplication.DataAccess\\TodoApplication.DataAccess.csproj|solutionrelative:todoapplication.dataaccess\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{482B5D8D-7F58-44EA-BF6C-29779B200033}|TodoApplication.DataAccess\\TodoApplication.DataAccess.csproj|d:\\desktop\\sivus\\portfolio_proekti\\todoapplication\\todoapplication.dataaccess\\interfaces\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{482B5D8D-7F58-44EA-BF6C-29779B200033}|TodoApplication.DataAccess\\TodoApplication.DataAccess.csproj|solutionrelative:todoapplication.dataaccess\\interfaces\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{482B5D8D-7F58-44EA-BF6C-29779B200033}|TodoApplication.DataAccess\\TodoApplication.DataAccess.csproj|d:\\desktop\\sivus\\portfolio_proekti\\todoapplication\\todoapplication.dataaccess\\migrations\\20240627203326_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{482B5D8D-7F58-44EA-BF6C-29779B200033}|TodoApplication.DataAccess\\TodoApplication.DataAccess.csproj|solutionrelative:todoapplication.dataaccess\\migrations\\20240627203326_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{482B5D8D-7F58-44EA-BF6C-29779B200033}|TodoApplication.DataAccess\\TodoApplication.DataAccess.csproj|d:\\desktop\\sivus\\portfolio_proekti\\todoapplication\\todoapplication.dataaccess\\inmemorydatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{482B5D8D-7F58-44EA-BF6C-29779B200033}|TodoApplication.DataAccess\\TodoApplication.DataAccess.csproj|solutionrelative:todoapplication.dataaccess\\inmemorydatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{482B5D8D-7F58-44EA-BF6C-29779B200033}|TodoApplication.DataAccess\\TodoApplication.DataAccess.csproj|d:\\desktop\\sivus\\portfolio_proekti\\todoapplication\\todoapplication.dataaccess\\todoappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{482B5D8D-7F58-44EA-BF6C-29779B200033}|TodoApplication.DataAccess\\TodoApplication.DataAccess.csproj|solutionrelative:todoapplication.dataaccess\\todoappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD81115C-CB93-4C33-BDFE-D1BF9DC34693}|Todoapplication.Model\\TodoApplication.Domain.csproj|d:\\desktop\\sivus\\portfolio_proekti\\todoapplication\\todoapplication.model\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD81115C-CB93-4C33-BDFE-D1BF9DC34693}|Todoapplication.Model\\TodoApplication.Domain.csproj|solutionrelative:todoapplication.model\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD81115C-CB93-4C33-BDFE-D1BF9DC34693}|Todoapplication.Model\\TodoApplication.Domain.csproj|d:\\desktop\\sivus\\portfolio_proekti\\todoapplication\\todoapplication.model\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD81115C-CB93-4C33-BDFE-D1BF9DC34693}|Todoapplication.Model\\TodoApplication.Domain.csproj|solutionrelative:todoapplication.model\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A48A4A69-B0FA-4BBA-B9C9-E342611BB42B}|TodoApplication.Dtos\\TodoApplication.Dtos.csproj|d:\\desktop\\sivus\\portfolio_proekti\\todoapplication\\todoapplication.dtos\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A48A4A69-B0FA-4BBA-B9C9-E342611BB42B}|TodoApplication.Dtos\\TodoApplication.Dtos.csproj|solutionrelative:todoapplication.dtos\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A48A4A69-B0FA-4BBA-B9C9-E342611BB42B}|TodoApplication.Dtos\\TodoApplication.Dtos.csproj|d:\\desktop\\sivus\\portfolio_proekti\\todoapplication\\todoapplication.dtos\\dto\\filterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A48A4A69-B0FA-4BBA-B9C9-E342611BB42B}|TodoApplication.Dtos\\TodoApplication.Dtos.csproj|solutionrelative:todoapplication.dtos\\dto\\filterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A48A4A69-B0FA-4BBA-B9C9-E342611BB42B}|TodoApplication.Dtos\\TodoApplication.Dtos.csproj|d:\\desktop\\sivus\\portfolio_proekti\\todoapplication\\todoapplication.dtos\\dto\\statusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A48A4A69-B0FA-4BBA-B9C9-E342611BB42B}|TodoApplication.Dtos\\TodoApplication.Dtos.csproj|solutionrelative:todoapplication.dtos\\dto\\statusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A48A4A69-B0FA-4BBA-B9C9-E342611BB42B}|TodoApplication.Dtos\\TodoApplication.Dtos.csproj|d:\\desktop\\sivus\\portfolio_proekti\\todoapplication\\todoapplication.dtos\\dto\\tododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A48A4A69-B0FA-4BBA-B9C9-E342611BB42B}|TodoApplication.Dtos\\TodoApplication.Dtos.csproj|solutionrelative:todoapplication.dtos\\dto\\tododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A48A4A69-B0FA-4BBA-B9C9-E342611BB42B}|TodoApplication.Dtos\\TodoApplication.Dtos.csproj|d:\\desktop\\sivus\\portfolio_proekti\\todoapplication\\todoapplication.dtos\\viewmodel\\createtodovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A48A4A69-B0FA-4BBA-B9C9-E342611BB42B}|TodoApplication.Dtos\\TodoApplication.Dtos.csproj|solutionrelative:todoapplication.dtos\\viewmodel\\createtodovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A48A4A69-B0FA-4BBA-B9C9-E342611BB42B}|TodoApplication.Dtos\\TodoApplication.Dtos.csproj|d:\\desktop\\sivus\\portfolio_proekti\\todoapplication\\todoapplication.dtos\\viewmodel\\filtervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A48A4A69-B0FA-4BBA-B9C9-E342611BB42B}|TodoApplication.Dtos\\TodoApplication.Dtos.csproj|solutionrelative:todoapplication.dtos\\viewmodel\\filtervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A468F559-28D8-44EB-8BE0-755BD0996497}|TodoApplication.Mapper\\TodoApplication.Mapper.csproj|d:\\desktop\\sivus\\portfolio_proekti\\todoapplication\\todoapplication.mapper\\mapperextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A468F559-28D8-44EB-8BE0-755BD0996497}|TodoApplication.Mapper\\TodoApplication.Mapper.csproj|solutionrelative:todoapplication.mapper\\mapperextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458E0935-895F-4CE1-BCED-EA8DFD34C84E}|TodoApplication.Services\\TodoApplication.Services.csproj|d:\\desktop\\sivus\\portfolio_proekti\\todoapplication\\todoapplication.services\\filterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458E0935-895F-4CE1-BCED-EA8DFD34C84E}|TodoApplication.Services\\TodoApplication.Services.csproj|solutionrelative:todoapplication.services\\filterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458E0935-895F-4CE1-BCED-EA8DFD34C84E}|TodoApplication.Services\\TodoApplication.Services.csproj|d:\\desktop\\sivus\\portfolio_proekti\\todoapplication\\todoapplication.services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458E0935-895F-4CE1-BCED-EA8DFD34C84E}|TodoApplication.Services\\TodoApplication.Services.csproj|solutionrelative:todoapplication.services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\TodoApplication\\TodoApplication.WebApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "TodoApplication.WebApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\TodoApplication\\TodoApplication.WebApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "TodoApplication.WebApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T12:45:49.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddTodo.cshtml",
+              "DocumentMoniker": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\TodoApplication\\TodoApplication.WebApp\\Views\\Todo\\AddTodo.cshtml",
+              "RelativeDocumentMoniker": "TodoApplication.WebApp\\Views\\Todo\\AddTodo.cshtml",
+              "ToolTip": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\TodoApplication\\TodoApplication.WebApp\\Views\\Todo\\AddTodo.cshtml",
+              "RelativeToolTip": "TodoApplication.WebApp\\Views\\Todo\\AddTodo.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T12:44:40.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EFCategoryRepository.cs",
+              "DocumentMoniker": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\TodoApplication\\TodoApplication.DataAccess\\EFImplementations\\EFCategoryRepository.cs",
+              "RelativeDocumentMoniker": "TodoApplication.DataAccess\\EFImplementations\\EFCategoryRepository.cs",
+              "ToolTip": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\TodoApplication\\TodoApplication.DataAccess\\EFImplementations\\EFCategoryRepository.cs",
+              "RelativeToolTip": "TodoApplication.DataAccess\\EFImplementations\\EFCategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T12:10:23.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EFStatusRepository.cs",
+              "DocumentMoniker": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\TodoApplication\\TodoApplication.DataAccess\\EFImplementations\\EFStatusRepository.cs",
+              "RelativeDocumentMoniker": "TodoApplication.DataAccess\\EFImplementations\\EFStatusRepository.cs",
+              "ToolTip": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\TodoApplication\\TodoApplication.DataAccess\\EFImplementations\\EFStatusRepository.cs",
+              "RelativeToolTip": "TodoApplication.DataAccess\\EFImplementations\\EFStatusRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA2wBUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T12:10:22.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StatusRepository.cs",
+              "DocumentMoniker": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\TodoApplication\\TodoApplication.DataAccess\\Implementations\\StatusRepository.cs",
+              "RelativeDocumentMoniker": "TodoApplication.DataAccess\\Implementations\\StatusRepository.cs",
+              "ToolTip": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\TodoApplication\\TodoApplication.DataAccess\\Implementations\\StatusRepository.cs",
+              "RelativeToolTip": "TodoApplication.DataAccess\\Implementations\\StatusRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T12:10:15.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\TodoApplication\\TodoApplication.DataAccess\\Implementations\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "TodoApplication.DataAccess\\Implementations\\CategoryRepository.cs",
+              "ToolTip": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\TodoApplication\\TodoApplication.DataAccess\\Implementations\\CategoryRepository.cs",
+              "RelativeToolTip": "TodoApplication.DataAccess\\Implementations\\CategoryRepository.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T12:10:12.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ITodoRepository.cs",
+              "DocumentMoniker": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\TodoApplication\\TodoApplication.DataAccess\\Interfaces\\ITodoRepository.cs",
+              "RelativeDocumentMoniker": "TodoApplication.DataAccess\\Interfaces\\ITodoRepository.cs",
+              "ToolTip": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\TodoApplication\\TodoApplication.DataAccess\\Interfaces\\ITodoRepository.cs",
+              "RelativeToolTip": "TodoApplication.DataAccess\\Interfaces\\ITodoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T12:10:08.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\TodoApplication\\TodoApplication.DataAccess\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "TodoApplication.DataAccess\\Interfaces\\IRepository.cs",
+              "ToolTip": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\TodoApplication\\TodoApplication.DataAccess\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "TodoApplication.DataAccess\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T12:10:03.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240627203326_Init.cs",
+              "DocumentMoniker": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\TodoApplication\\TodoApplication.DataAccess\\Migrations\\20240627203326_Init.cs",
+              "RelativeDocumentMoniker": "TodoApplication.DataAccess\\Migrations\\20240627203326_Init.cs",
+              "ToolTip": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\TodoApplication\\TodoApplication.DataAccess\\Migrations\\20240627203326_Init.cs",
+              "RelativeToolTip": "TodoApplication.DataAccess\\Migrations\\20240627203326_Init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T12:10:05.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TodoAppDbContext.cs",
+              "DocumentMoniker": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\TodoApplication\\TodoApplication.DataAccess\\TodoAppDbContext.cs",
+              "RelativeDocumentMoniker": "TodoApplication.DataAccess\\TodoAppDbContext.cs",
+              "ToolTip": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\TodoApplication\\TodoApplication.DataAccess\\TodoAppDbContext.cs",
+              "RelativeToolTip": "TodoApplication.DataAccess\\TodoAppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T11:36:51.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InMemoryDataBase.cs",
+              "DocumentMoniker": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\TodoApplication\\TodoApplication.DataAccess\\InMemoryDataBase.cs",
+              "RelativeDocumentMoniker": "TodoApplication.DataAccess\\InMemoryDataBase.cs",
+              "ToolTip": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\TodoApplication\\TodoApplication.DataAccess\\InMemoryDataBase.cs",
+              "RelativeToolTip": "TodoApplication.DataAccess\\InMemoryDataBase.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T11:36:46.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\TodoApplication\\Todoapplication.Model\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Todoapplication.Model\\BaseEntity.cs",
+              "ToolTip": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\TodoApplication\\Todoapplication.Model\\BaseEntity.cs",
+              "RelativeToolTip": "Todoapplication.Model\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T11:36:44.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\TodoApplication\\Todoapplication.Model\\Todo.cs",
+              "RelativeDocumentMoniker": "Todoapplication.Model\\Todo.cs",
+              "ToolTip": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\TodoApplication\\Todoapplication.Model\\Todo.cs",
+              "RelativeToolTip": "Todoapplication.Model\\Todo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T11:36:43.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Status.cs",
+              "DocumentMoniker": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\TodoApplication\\Todoapplication.Model\\Status.cs",
+              "RelativeDocumentMoniker": "Todoapplication.Model\\Status.cs",
+              "ToolTip": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\TodoApplication\\Todoapplication.Model\\Status.cs",
+              "RelativeToolTip": "Todoapplication.Model\\Status.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T11:36:42.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\TodoApplication\\TodoApplication.Dtos\\Dto\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "TodoApplication.Dtos\\Dto\\CategoryDto.cs",
+              "ToolTip": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\TodoApplication\\TodoApplication.Dtos\\Dto\\CategoryDto.cs",
+              "RelativeToolTip": "TodoApplication.Dtos\\Dto\\CategoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T11:36:36.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FilterDto.cs",
+              "DocumentMoniker": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\TodoApplication\\TodoApplication.Dtos\\Dto\\FilterDto.cs",
+              "RelativeDocumentMoniker": "TodoApplication.Dtos\\Dto\\FilterDto.cs",
+              "ToolTip": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\TodoApplication\\TodoApplication.Dtos\\Dto\\FilterDto.cs",
+              "RelativeToolTip": "TodoApplication.Dtos\\Dto\\FilterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T11:36:36.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StatusDto.cs",
+              "DocumentMoniker": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\TodoApplication\\TodoApplication.Dtos\\Dto\\StatusDto.cs",
+              "RelativeDocumentMoniker": "TodoApplication.Dtos\\Dto\\StatusDto.cs",
+              "ToolTip": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\TodoApplication\\TodoApplication.Dtos\\Dto\\StatusDto.cs",
+              "RelativeToolTip": "TodoApplication.Dtos\\Dto\\StatusDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T11:36:35.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TodoDto.cs",
+              "DocumentMoniker": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\TodoApplication\\TodoApplication.Dtos\\Dto\\TodoDto.cs",
+              "RelativeDocumentMoniker": "TodoApplication.Dtos\\Dto\\TodoDto.cs",
+              "ToolTip": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\TodoApplication\\TodoApplication.Dtos\\Dto\\TodoDto.cs",
+              "RelativeToolTip": "TodoApplication.Dtos\\Dto\\TodoDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T11:36:35.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateTodoVM.cs",
+              "DocumentMoniker": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\TodoApplication\\TodoApplication.Dtos\\ViewModel\\CreateTodoVM.cs",
+              "RelativeDocumentMoniker": "TodoApplication.Dtos\\ViewModel\\CreateTodoVM.cs",
+              "ToolTip": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\TodoApplication\\TodoApplication.Dtos\\ViewModel\\CreateTodoVM.cs",
+              "RelativeToolTip": "TodoApplication.Dtos\\ViewModel\\CreateTodoVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T11:36:30.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FilterVM.cs",
+              "DocumentMoniker": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\TodoApplication\\TodoApplication.Dtos\\ViewModel\\FilterVM.cs",
+              "RelativeDocumentMoniker": "TodoApplication.Dtos\\ViewModel\\FilterVM.cs",
+              "ToolTip": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\TodoApplication\\TodoApplication.Dtos\\ViewModel\\FilterVM.cs",
+              "RelativeToolTip": "TodoApplication.Dtos\\ViewModel\\FilterVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T11:36:29.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MapperExtensions.cs",
+              "DocumentMoniker": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\TodoApplication\\TodoApplication.Mapper\\MapperExtensions.cs",
+              "RelativeDocumentMoniker": "TodoApplication.Mapper\\MapperExtensions.cs",
+              "ToolTip": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\TodoApplication\\TodoApplication.Mapper\\MapperExtensions.cs",
+              "RelativeToolTip": "TodoApplication.Mapper\\MapperExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T11:36:22.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FilterService.cs",
+              "DocumentMoniker": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\TodoApplication\\TodoApplication.Services\\FilterService.cs",
+              "RelativeDocumentMoniker": "TodoApplication.Services\\FilterService.cs",
+              "ToolTip": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\TodoApplication\\TodoApplication.Services\\FilterService.cs",
+              "RelativeToolTip": "TodoApplication.Services\\FilterService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wBEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T11:35:54.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TodoService.cs",
+              "DocumentMoniker": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\TodoApplication\\TodoApplication.Services\\TodoService.cs",
+              "RelativeDocumentMoniker": "TodoApplication.Services\\TodoService.cs",
+              "ToolTip": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\TodoApplication\\TodoApplication.Services\\TodoService.cs",
+              "RelativeToolTip": "TodoApplication.Services\\TodoService.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAowCYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T11:27:30.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\TodoApplication\\TodoApplication.WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "TodoApplication.WebApp\\Program.cs",
+              "ToolTip": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\TodoApplication\\TodoApplication.WebApp\\Program.cs",
+              "RelativeToolTip": "TodoApplication.WebApp\\Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAqwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:06:58.734Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

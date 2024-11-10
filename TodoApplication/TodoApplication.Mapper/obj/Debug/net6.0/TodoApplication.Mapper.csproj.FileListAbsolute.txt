@@ -1,0 +1,17 @@
+D:\Desktop\SIVUS\PORTFOLIO_PROEKTI\TodoApplication\TodoApplication.Mapper\bin\Debug\net6.0\TodoApplication.Mapper.deps.json
+D:\Desktop\SIVUS\PORTFOLIO_PROEKTI\TodoApplication\TodoApplication.Mapper\bin\Debug\net6.0\TodoApplication.Mapper.dll
+D:\Desktop\SIVUS\PORTFOLIO_PROEKTI\TodoApplication\TodoApplication.Mapper\bin\Debug\net6.0\TodoApplication.Mapper.pdb
+D:\Desktop\SIVUS\PORTFOLIO_PROEKTI\TodoApplication\TodoApplication.Mapper\bin\Debug\net6.0\TodoApplication.Domain.dll
+D:\Desktop\SIVUS\PORTFOLIO_PROEKTI\TodoApplication\TodoApplication.Mapper\bin\Debug\net6.0\TodoApplication.Dtos.dll
+D:\Desktop\SIVUS\PORTFOLIO_PROEKTI\TodoApplication\TodoApplication.Mapper\bin\Debug\net6.0\TodoApplication.Dtos.pdb
+D:\Desktop\SIVUS\PORTFOLIO_PROEKTI\TodoApplication\TodoApplication.Mapper\bin\Debug\net6.0\TodoApplication.Domain.pdb
+D:\Desktop\SIVUS\PORTFOLIO_PROEKTI\TodoApplication\TodoApplication.Mapper\obj\Debug\net6.0\TodoApplication.Mapper.csproj.AssemblyReference.cache
+D:\Desktop\SIVUS\PORTFOLIO_PROEKTI\TodoApplication\TodoApplication.Mapper\obj\Debug\net6.0\TodoApplication.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\SIVUS\PORTFOLIO_PROEKTI\TodoApplication\TodoApplication.Mapper\obj\Debug\net6.0\TodoApplication.Mapper.AssemblyInfoInputs.cache
+D:\Desktop\SIVUS\PORTFOLIO_PROEKTI\TodoApplication\TodoApplication.Mapper\obj\Debug\net6.0\TodoApplication.Mapper.AssemblyInfo.cs
+D:\Desktop\SIVUS\PORTFOLIO_PROEKTI\TodoApplication\TodoApplication.Mapper\obj\Debug\net6.0\TodoApplication.Mapper.csproj.CoreCompileInputs.cache
+D:\Desktop\SIVUS\PORTFOLIO_PROEKTI\TodoApplication\TodoApplication.Mapper\obj\Debug\net6.0\TodoAppl.A6A3C4A1.Up2Date
+D:\Desktop\SIVUS\PORTFOLIO_PROEKTI\TodoApplication\TodoApplication.Mapper\obj\Debug\net6.0\TodoApplication.Mapper.dll
+D:\Desktop\SIVUS\PORTFOLIO_PROEKTI\TodoApplication\TodoApplication.Mapper\obj\Debug\net6.0\refint\TodoApplication.Mapper.dll
+D:\Desktop\SIVUS\PORTFOLIO_PROEKTI\TodoApplication\TodoApplication.Mapper\obj\Debug\net6.0\TodoApplication.Mapper.pdb
+D:\Desktop\SIVUS\PORTFOLIO_PROEKTI\TodoApplication\TodoApplication.Mapper\obj\Debug\net6.0\ref\TodoApplication.Mapper.dll
