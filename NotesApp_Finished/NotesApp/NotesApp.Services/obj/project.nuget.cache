@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hvOWDkQNQTvZUnJ+ZuQ/BNyedD1yFZoC5xIQpyPosG5OJbh/T6XLNYd8BDmDp4skKUUQi1K+FKI0OzhkX3tYFA==",
+  "dgSpecHash": "321VXo3dcoe7iIJZqX78sH/uiOw726upHF4ekt6jQgdfMiI3Uh4jPhsm7irnA52q6ZwbqMt+56wG1ARXduoSiA==",
   "success": true,
-  "projectFilePath": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\NotesApp_Finished\\NotesApp\\NotesApp.Services\\NotesApp.Services.csproj",
+  "projectFilePath": "D:\\Desktop\\SIVUS\\Job\\Projects\\NotesApp_Finished\\NotesApp\\NotesApp.Services\\NotesApp.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PowerCube\\.nuget\\packages\\commonservicelocator\\1.3.0\\commonservicelocator.1.3.0.nupkg.sha512",
     "C:\\Users\\PowerCube\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",

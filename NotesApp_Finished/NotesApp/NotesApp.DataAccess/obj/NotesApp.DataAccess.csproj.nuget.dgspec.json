@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\NotesApp_Finished\\NotesApp\\NotesApp.DataAccess\\NotesApp.DataAccess.csproj": {}
+    "D:\\Desktop\\SIVUS\\Job\\Projects\\NotesApp_Finished\\NotesApp\\NotesApp.DataAccess\\NotesApp.DataAccess.csproj": {}
   },
   "projects": {
-    "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\NotesApp_Finished\\NotesApp\\NotesApp.DataAccess\\NotesApp.DataAccess.csproj": {
+    "D:\\Desktop\\SIVUS\\Job\\Projects\\NotesApp_Finished\\NotesApp\\NotesApp.DataAccess\\NotesApp.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\NotesApp_Finished\\NotesApp\\NotesApp.DataAccess\\NotesApp.DataAccess.csproj",
+        "projectUniqueName": "D:\\Desktop\\SIVUS\\Job\\Projects\\NotesApp_Finished\\NotesApp\\NotesApp.DataAccess\\NotesApp.DataAccess.csproj",
         "projectName": "NotesApp.DataAccess",
-        "projectPath": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\NotesApp_Finished\\NotesApp\\NotesApp.DataAccess\\NotesApp.DataAccess.csproj",
+        "projectPath": "D:\\Desktop\\SIVUS\\Job\\Projects\\NotesApp_Finished\\NotesApp\\NotesApp.DataAccess\\NotesApp.DataAccess.csproj",
         "packagesPath": "C:\\Users\\PowerCube\\.nuget\\packages\\",
-        "outputPath": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\NotesApp_Finished\\NotesApp\\NotesApp.DataAccess\\obj\\",
+        "outputPath": "D:\\Desktop\\SIVUS\\Job\\Projects\\NotesApp_Finished\\NotesApp\\NotesApp.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PowerCube\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\NotesApp_Finished\\NotesApp\\NotesApp.Domain\\NotesApp.Domain.csproj": {
-                "projectPath": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\NotesApp_Finished\\NotesApp\\NotesApp.Domain\\NotesApp.Domain.csproj"
+              "D:\\Desktop\\SIVUS\\Job\\Projects\\NotesApp_Finished\\NotesApp\\NotesApp.Domain\\NotesApp.Domain.csproj": {
+                "projectPath": "D:\\Desktop\\SIVUS\\Job\\Projects\\NotesApp_Finished\\NotesApp\\NotesApp.Domain\\NotesApp.Domain.csproj"
               }
             }
           }
@@ -92,14 +92,14 @@
         }
       }
     },
-    "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\NotesApp_Finished\\NotesApp\\NotesApp.Domain\\NotesApp.Domain.csproj": {
+    "D:\\Desktop\\SIVUS\\Job\\Projects\\NotesApp_Finished\\NotesApp\\NotesApp.Domain\\NotesApp.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\NotesApp_Finished\\NotesApp\\NotesApp.Domain\\NotesApp.Domain.csproj",
+        "projectUniqueName": "D:\\Desktop\\SIVUS\\Job\\Projects\\NotesApp_Finished\\NotesApp\\NotesApp.Domain\\NotesApp.Domain.csproj",
         "projectName": "NotesApp.Domain",
-        "projectPath": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\NotesApp_Finished\\NotesApp\\NotesApp.Domain\\NotesApp.Domain.csproj",
+        "projectPath": "D:\\Desktop\\SIVUS\\Job\\Projects\\NotesApp_Finished\\NotesApp\\NotesApp.Domain\\NotesApp.Domain.csproj",
         "packagesPath": "C:\\Users\\PowerCube\\.nuget\\packages\\",
-        "outputPath": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\NotesApp_Finished\\NotesApp\\NotesApp.Domain\\obj\\",
+        "outputPath": "D:\\Desktop\\SIVUS\\Job\\Projects\\NotesApp_Finished\\NotesApp\\NotesApp.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PowerCube\\AppData\\Roaming\\NuGet\\NuGet.Config",

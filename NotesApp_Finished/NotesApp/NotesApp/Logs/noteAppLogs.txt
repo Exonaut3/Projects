@@ -1,0 +1,4 @@
+[2024-11-13 12:22:34 INF] : Processing registration for new user: "test"
+[2024-11-13 12:22:37 INF] : User registered successfully: "test"
+[2024-11-13 12:23:09 INF] : Processing login attempt for user: "test"
+[2024-11-13 12:23:09 INF] : User successfully logged in: "test"

@@ -3917,11 +3917,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\NotesApp_Finished\\NotesApp\\NotesApp.Helpers\\NotesApp.Helpers.csproj",
+      "projectUniqueName": "D:\\Desktop\\SIVUS\\Job\\Projects\\NotesApp_Finished\\NotesApp\\NotesApp.Helpers\\NotesApp.Helpers.csproj",
       "projectName": "NotesApp.Helpers",
-      "projectPath": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\NotesApp_Finished\\NotesApp\\NotesApp.Helpers\\NotesApp.Helpers.csproj",
+      "projectPath": "D:\\Desktop\\SIVUS\\Job\\Projects\\NotesApp_Finished\\NotesApp\\NotesApp.Helpers\\NotesApp.Helpers.csproj",
       "packagesPath": "C:\\Users\\PowerCube\\.nuget\\packages\\",
-      "outputPath": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\NotesApp_Finished\\NotesApp\\NotesApp.Helpers\\obj\\",
+      "outputPath": "D:\\Desktop\\SIVUS\\Job\\Projects\\NotesApp_Finished\\NotesApp\\NotesApp.Helpers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PowerCube\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3938,11 +3938,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\NotesApp_Finished\\NotesApp\\NotesApp.DataAccess\\NotesApp.DataAccess.csproj": {
-              "projectPath": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\NotesApp_Finished\\NotesApp\\NotesApp.DataAccess\\NotesApp.DataAccess.csproj"
+            "D:\\Desktop\\SIVUS\\Job\\Projects\\NotesApp_Finished\\NotesApp\\NotesApp.DataAccess\\NotesApp.DataAccess.csproj": {
+              "projectPath": "D:\\Desktop\\SIVUS\\Job\\Projects\\NotesApp_Finished\\NotesApp\\NotesApp.DataAccess\\NotesApp.DataAccess.csproj"
             },
-            "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\NotesApp_Finished\\NotesApp\\NotesApp.Services\\NotesApp.Services.csproj": {
-              "projectPath": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\NotesApp_Finished\\NotesApp\\NotesApp.Services\\NotesApp.Services.csproj"
+            "D:\\Desktop\\SIVUS\\Job\\Projects\\NotesApp_Finished\\NotesApp\\NotesApp.Services\\NotesApp.Services.csproj": {
+              "projectPath": "D:\\Desktop\\SIVUS\\Job\\Projects\\NotesApp_Finished\\NotesApp\\NotesApp.Services\\NotesApp.Services.csproj"
             }
           }
         }

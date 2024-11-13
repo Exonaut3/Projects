@@ -20,3 +20,15 @@ D:\Desktop\SIVUS\PORTFOLIO_PROEKTI\NotesApp_Finished\NotesApp\NotesApp.Domain\ob
 D:\Desktop\SIVUS\PORTFOLIO_PROEKTI\NotesApp_Finished\NotesApp\NotesApp.Domain\obj\Debug\net6.0\refint\NotesApp.Domain.dll
 D:\Desktop\SIVUS\PORTFOLIO_PROEKTI\NotesApp_Finished\NotesApp\NotesApp.Domain\obj\Debug\net6.0\NotesApp.Domain.pdb
 D:\Desktop\SIVUS\PORTFOLIO_PROEKTI\NotesApp_Finished\NotesApp\NotesApp.Domain\obj\Debug\net6.0\ref\NotesApp.Domain.dll
+D:\Desktop\SIVUS\Job\Projects\NotesApp_Finished\NotesApp\NotesApp.Domain\bin\Debug\net6.0\NotesApp.Domain.deps.json
+D:\Desktop\SIVUS\Job\Projects\NotesApp_Finished\NotesApp\NotesApp.Domain\bin\Debug\net6.0\NotesApp.Domain.dll
+D:\Desktop\SIVUS\Job\Projects\NotesApp_Finished\NotesApp\NotesApp.Domain\bin\Debug\net6.0\NotesApp.Domain.pdb
+D:\Desktop\SIVUS\Job\Projects\NotesApp_Finished\NotesApp\NotesApp.Domain\obj\Debug\net6.0\NotesApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\SIVUS\Job\Projects\NotesApp_Finished\NotesApp\NotesApp.Domain\obj\Debug\net6.0\NotesApp.Domain.AssemblyInfoInputs.cache
+D:\Desktop\SIVUS\Job\Projects\NotesApp_Finished\NotesApp\NotesApp.Domain\obj\Debug\net6.0\NotesApp.Domain.AssemblyInfo.cs
+D:\Desktop\SIVUS\Job\Projects\NotesApp_Finished\NotesApp\NotesApp.Domain\obj\Debug\net6.0\NotesApp.Domain.csproj.CoreCompileInputs.cache
+D:\Desktop\SIVUS\Job\Projects\NotesApp_Finished\NotesApp\NotesApp.Domain\obj\Debug\net6.0\NotesApp.Domain.sourcelink.json
+D:\Desktop\SIVUS\Job\Projects\NotesApp_Finished\NotesApp\NotesApp.Domain\obj\Debug\net6.0\NotesApp.Domain.dll
+D:\Desktop\SIVUS\Job\Projects\NotesApp_Finished\NotesApp\NotesApp.Domain\obj\Debug\net6.0\refint\NotesApp.Domain.dll
+D:\Desktop\SIVUS\Job\Projects\NotesApp_Finished\NotesApp\NotesApp.Domain\obj\Debug\net6.0\NotesApp.Domain.pdb
+D:\Desktop\SIVUS\Job\Projects\NotesApp_Finished\NotesApp\NotesApp.Domain\obj\Debug\net6.0\ref\NotesApp.Domain.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6oMfVv0LwuI4dpKcHb7l/+MhO1I9uV/P3QA3KXpu4F9x5lNY7NwPQDGJCOYVLBobhM5WySWWPUDT5MToVHVkAQ==",
+  "dgSpecHash": "NPUOiXZ/4qClhJHDsiSMJpqAA3fdtvkQzr4jvDGgwGzAEmMLjSi4gkPakUk6qZw9gATQR9qfr2uDCpW12hH9Jw==",
   "success": true,
-  "projectFilePath": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\NotesApp_Finished\\NotesApp\\NotesApp.DataAccess\\NotesApp.DataAccess.csproj",
+  "projectFilePath": "D:\\Desktop\\SIVUS\\Job\\Projects\\NotesApp_Finished\\NotesApp\\NotesApp.DataAccess\\NotesApp.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PowerCube\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\PowerCube\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

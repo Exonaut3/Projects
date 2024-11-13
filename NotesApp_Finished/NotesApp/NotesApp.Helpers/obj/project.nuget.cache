@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N12oK2uADrnSWL80nRx3To35LAY74lH2b2o1HloM6Ie3Nuy2Gs2tvhsqrZtqgAT6ZeqT8beJa+zoLE3jGSBhsQ==",
+  "dgSpecHash": "G9bQqomsmp7FfiodMCrBi4vKEjtrbNNfMXgahCSLQfOLft/GGG4vdM8Uo49JSY44kGdz2+psYXmeFPTc88HZig==",
   "success": true,
-  "projectFilePath": "D:\\Desktop\\SIVUS\\PORTFOLIO_PROEKTI\\NotesApp_Finished\\NotesApp\\NotesApp.Helpers\\NotesApp.Helpers.csproj",
+  "projectFilePath": "D:\\Desktop\\SIVUS\\Job\\Projects\\NotesApp_Finished\\NotesApp\\NotesApp.Helpers\\NotesApp.Helpers.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PowerCube\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\PowerCube\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
